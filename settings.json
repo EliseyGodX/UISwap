@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "profile": {
+      "copy": "path_copy",
+      "inserts": "path_inserts"
+    }
+  },
+  "apperance_mode": "System",
+  "color_mode": "dark-blue",
+  "scaling_event": "100%",
+  "textbox": "Attention! Remove quotes in paths. To paste the path, use the English keyboard layout\n\n----------------------------------------------------------\nFor notes:\n",
+  "path_game": "path"
+}
